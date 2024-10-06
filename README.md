@@ -50,8 +50,13 @@ While döngüsün'de uygulamaya kullanıcı negatif bir değer girdiğinde döng
 
 Do-while döngüsünde ise kullanıcı negatif bir değer girse bile uygulama 1 kere çalışacak.
 
-## Yorum-Sonuç
+## While ve Do-While Döngüleri Arasındaki Farklar
 
-Input Değeri	    While Döngüsü Çıktısı	      Do-While Döngüsü Çıktısı
-10	              11 defa çıktı	              11 defa çıktı
--5	              Çıktı yok	                  1 defa çıktı
+- **While Döngüsü**: Koşul sağlanmazsa döngü hiç başlamaz.
+- **Do-While Döngüsü**: Koşul sağlanmasa bile döngü en az bir kez çalışır.
+
+| Input Değeri  | While Döngüsü Çıktısı | Do-While Döngüsü Çıktısı |
+|---------------|-----------------------|--------------------------|
+| 10            | 11 defa çıktı          | 11 defa çıktı             |
+| -5            | Çıktı yok              | 1 defa çıktı              |
+
