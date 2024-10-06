@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\bin\Debug\net8.0\patika_w2_while_doWhile.exe
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\bin\Debug\net8.0\patika_w2_while_doWhile.deps.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\bin\Debug\net8.0\patika_w2_while_doWhile.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\bin\Debug\net8.0\patika_w2_while_doWhile.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\bin\Debug\net8.0\patika_w2_while_doWhile.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\refint\patika_w2_while_doWhile.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\patika_w2_while_doWhile.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_doWhile\patika_w2_while_doWhile\obj\Debug\net8.0\ref\patika_w2_while_doWhile.dll
